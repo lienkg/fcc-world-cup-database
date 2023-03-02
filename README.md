@@ -1,2 +1,2 @@
 # world-cup-database
-freeCodeCamp Project (Relational Database Certification)
+This World Cup Database was built as part of the freeCodeCamp Relational Database Certification.
